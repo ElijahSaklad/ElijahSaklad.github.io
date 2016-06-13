@@ -1,5 +1,9 @@
 .jumbotron {
   background: url('chrome-search://theme/IDR_THEME_NTP_BACKGROUND?pohcgpjbppnmcgniboemmclejbmbemha');
   height: 100%
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
 }
   
